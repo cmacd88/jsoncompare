@@ -1,7 +1,6 @@
 ## Load Dependencies
 import json
 from deepdiff import DeepDiff
-from pprint import pprint
 
 ## Load JSON files
 def load_json(file_path):
